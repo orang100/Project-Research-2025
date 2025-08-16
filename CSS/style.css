@@ -147,6 +147,7 @@ body {
 
 .about .row .about-img img {
   width: 100%;
+  border-radius: 25px;
 }
 
 .about .row .content {
